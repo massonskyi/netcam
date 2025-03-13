@@ -1,0 +1,8 @@
+#ifndef GIT_VERSION_H
+#define GIT_VERSION_H
+
+#define GIT_BRANCH "@GIT_BRANCH@"
+#define GIT_COMMIT_HASH "@GIT_COMMIT_HASH@"
+#define GIT_COMMIT_DATE "@GIT_COMMIT_DATE@"
+
+#endif // GIT_VERSION_H

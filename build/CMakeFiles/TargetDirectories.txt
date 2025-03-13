@@ -1,0 +1,9 @@
+/home/massonsky/repo/netcam/build/CMakeFiles/netcam.dir
+/home/massonsky/repo/netcam/build/CMakeFiles/edit_cache.dir
+/home/massonsky/repo/netcam/build/CMakeFiles/rebuild_cache.dir
+/home/massonsky/repo/netcam/build/CMakeFiles/list_install_components.dir
+/home/massonsky/repo/netcam/build/CMakeFiles/install.dir
+/home/massonsky/repo/netcam/build/CMakeFiles/install/local.dir
+/home/massonsky/repo/netcam/build/CMakeFiles/install/strip.dir
+/home/massonsky/repo/netcam/build/CMakeFiles/netcam_autogen_timestamp_deps.dir
+/home/massonsky/repo/netcam/build/CMakeFiles/netcam_autogen.dir

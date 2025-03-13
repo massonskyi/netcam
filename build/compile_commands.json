@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/massonsky/repo/netcam/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_NETWORK_LIB -I/home/massonsky/repo/netcam/build/netcam_autogen/include -I/home/massonsky/repo/netcam/build -I/home/massonsky/repo/netcam/includes -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/local/include/opencv4 -g -std=gnu++23 -fPIC -o CMakeFiles/netcam.dir/netcam_autogen/mocs_compilation.cpp.o -c /home/massonsky/repo/netcam/build/netcam_autogen/mocs_compilation.cpp",
+  "file": "/home/massonsky/repo/netcam/build/netcam_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/netcam.dir/netcam_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/massonsky/repo/netcam/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_NETWORK_LIB -I/home/massonsky/repo/netcam/build/netcam_autogen/include -I/home/massonsky/repo/netcam/build -I/home/massonsky/repo/netcam/includes -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/local/include/opencv4 -g -std=gnu++23 -fPIC -o CMakeFiles/netcam.dir/main.cpp.o -c /home/massonsky/repo/netcam/main.cpp",
+  "file": "/home/massonsky/repo/netcam/main.cpp",
+  "output": "CMakeFiles/netcam.dir/main.cpp.o"
+}
+]

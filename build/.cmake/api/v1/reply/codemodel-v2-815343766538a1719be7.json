@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3c8218b44b382b441129.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "netcam",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "netcam::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-netcam-Debug-dabd3c5f4c989e5cb378.json",
+					"name" : "netcam",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "netcam_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-netcam_autogen-Debug-1dc52783ea7827dcb9cb.json",
+					"name" : "netcam_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "netcam_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-netcam_autogen_timestamp_deps-Debug-180914ef721dc8133892.json",
+					"name" : "netcam_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/massonsky/repo/netcam/build",
+		"source" : "/home/massonsky/repo/netcam"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
